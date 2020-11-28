@@ -14,3 +14,6 @@ By the end of this Specialization, you will have designed NLP applications that 
 # Certificate
 
 <img src='https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~AKEXKJE2SPA8/CERTIFICATE_LANDING_PAGE~AKEXKJE2SPA8.jpeg' width=8000 height=600>
+
+
+Verification link: https://www.coursera.org/account/accomplishments/verify/AKEXKJE2SPA8 
